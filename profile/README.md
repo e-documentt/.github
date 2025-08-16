@@ -4,5 +4,8 @@
 
 The project has been distributed to several components, it's often referred to as **Client-Server** architecture.
 
-- Back-end: [source code](https://github.com/bhkhanh/e-document-backend)
-- Front-end: [source code](https://github.com/bhkhanh/e-document-frontend)
+- **Back-end:**
+  - Click here for [source code](https://github.com/e-documentt/e-document-backend) or you can scroll down to see its repository.
+
+- **Front-end:**
+  - Click here for [source code](https://github.com/e-documentt/e-document-frontend) or you can scroll down to see its repository.
